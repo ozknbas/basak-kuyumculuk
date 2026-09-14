@@ -1,0 +1,8 @@
+{
+  "name": "Remix Başak Kuyumculuk",
+  "description": "Modern ve açık pastel tonlarda canlı altın fiyatları, sarrafiye listesi, hurda hesap makinesi ve mağaza uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
